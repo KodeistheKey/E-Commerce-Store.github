@@ -1,0 +1,2 @@
+# WebsiteExampleV1.github
+My first project after my portfolio. Just a simple mid-level website design that i finally completed after agonizing over perfections for about a week. It was originally a template on w3.schools, however that means little as it is vastly differnet from the template it was born from. Basic knowledge of HTML, and CSS is needed to change it and style it  you have to know how a simple modern website works.
